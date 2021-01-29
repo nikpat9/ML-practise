@@ -7,3 +7,7 @@ where the coefficents of a and b are deteremined by the model. Following are the
 b= y_mean - m * x_mean.
 
 if the data is too spread out then, this isn't effecient.
+
+i have used a data of sale of used cars . out.csv has the data .
+i have split data into to sets one for training and one for testing.
+
